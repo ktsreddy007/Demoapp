@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">retrofitexpo</string>
+
+    <string-array name="lang_list">
+        <item>Select Language</item>
+        <item>Telugu</item>
+        <item>Hindi</item>
+        <item>Bengali</item>
+        <item>Gujarathi</item>
+        <item>Kannada</item>
+        <item>Malayalam</item>
+        <item>Marathi</item>
+        <item>Odiya</item>
+        <item>Punjabi</item>
+        <item>Tamil</item>
+        <item>English</item>
+    </string-array>
+</resources>

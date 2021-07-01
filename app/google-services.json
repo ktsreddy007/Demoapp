@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366536292709",
+    "project_id": "tejas-91e29",
+    "storage_bucket": "tejas-91e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366536292709:android:10aae10210e3f4c9cb898c",
+        "android_client_info": {
+          "package_name": "com.karvy.retrofitexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366536292709-c38ib5hbfc29mni32ihhhppj6rojhq7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzoBn5k8MIxTn44gtiSVuDVElRdJFCUn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366536292709-c38ib5hbfc29mni32ihhhppj6rojhq7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
